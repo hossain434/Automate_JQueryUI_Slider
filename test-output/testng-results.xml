@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13776" started-at="2018-08-01T06:00:59Z" finished-at="2018-08-01T06:01:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13776" started-at="2018-08-01T06:00:59Z" finished-at="2018-08-01T06:01:13Z">
+      <class name="AutomateJQuerySlider.JQueryUIPageTest">
+        <test-method status="PASS" signature="arquillianBeforeSuite()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianBeforeSuite" is-config="true" duration-ms="469" started-at="2018-07-31T23:00:58Z" finished-at="2018-07-31T23:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeSuite -->
+        <test-method status="PASS" signature="arquillianBeforeClass()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianBeforeClass" is-config="true" duration-ms="11" started-at="2018-07-31T23:00:59Z" finished-at="2018-07-31T23:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeClass -->
+        <test-method status="PASS" signature="arquillianBeforeTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianBeforeTest" is-config="true" duration-ms="3304" started-at="2018-07-31T23:00:59Z" finished-at="2018-07-31T23:01:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.goTo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeTest -->
+        <test-method status="PASS" signature="goTo()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="goTo" duration-ms="7608" started-at="2018-07-31T23:01:02Z" finished-at="2018-07-31T23:01:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goTo -->
+        <test-method status="PASS" signature="arquillianAfterTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianAfterTest" is-config="true" duration-ms="17" started-at="2018-07-31T23:01:10Z" finished-at="2018-07-31T23:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.goTo()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterTest -->
+        <test-method status="PASS" signature="arquillianBeforeTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianBeforeTest" is-config="true" duration-ms="55" started-at="2018-07-31T23:01:10Z" finished-at="2018-07-31T23:01:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.moveRightBy25()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeTest -->
+        <test-method status="PASS" signature="moveRightBy25()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="moveRightBy25" duration-ms="811" started-at="2018-07-31T23:01:10Z" finished-at="2018-07-31T23:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveRightBy25 -->
+        <test-method status="PASS" signature="arquillianAfterTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianAfterTest" is-config="true" duration-ms="1" started-at="2018-07-31T23:01:11Z" finished-at="2018-07-31T23:01:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.moveRightBy25()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterTest -->
+        <test-method status="PASS" signature="arquillianBeforeTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianBeforeTest" is-config="true" duration-ms="12" started-at="2018-07-31T23:01:11Z" finished-at="2018-07-31T23:01:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.moveLeftBy20()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeTest -->
+        <test-method status="PASS" signature="moveLeftBy20()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="moveLeftBy20" duration-ms="509" started-at="2018-07-31T23:01:11Z" finished-at="2018-07-31T23:01:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveLeftBy20 -->
+        <test-method status="PASS" signature="arquillianAfterTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianAfterTest" is-config="true" duration-ms="1" started-at="2018-07-31T23:01:11Z" finished-at="2018-07-31T23:01:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.moveLeftBy20()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterTest -->
+        <test-method status="PASS" signature="arquillianBeforeTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianBeforeTest" is-config="true" duration-ms="12" started-at="2018-07-31T23:01:11Z" finished-at="2018-07-31T23:01:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.moveRightBy50()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianBeforeTest -->
+        <test-method status="PASS" signature="moveRightBy50()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="moveRightBy50" duration-ms="767" started-at="2018-07-31T23:01:11Z" finished-at="2018-07-31T23:01:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveRightBy50 -->
+        <test-method status="PASS" signature="arquillianAfterTest(java.lang.reflect.Method)[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianAfterTest" is-config="true" duration-ms="1" started-at="2018-07-31T23:01:12Z" finished-at="2018-07-31T23:01:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void AutomateJQuerySlider.JQueryUIPageTest.moveRightBy50()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterTest -->
+        <test-method status="PASS" signature="arquillianAfterClass()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianAfterClass" is-config="true" duration-ms="649" started-at="2018-07-31T23:01:12Z" finished-at="2018-07-31T23:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterClass -->
+        <test-method status="PASS" signature="arquillianAfterSuite()[pri:0, instance:AutomateJQuerySlider.JQueryUIPageTest@1ec318]" name="arquillianAfterSuite" is-config="true" duration-ms="2" started-at="2018-07-31T23:01:13Z" finished-at="2018-07-31T23:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arquillianAfterSuite -->
+      </class> <!-- AutomateJQuerySlider.JQueryUIPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
